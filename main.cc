@@ -15,7 +15,7 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
 
-    cout << "Hello world!" << endl;
+    cout << "HELLO WORLD!" << endl;
 
     return 0;
 }
